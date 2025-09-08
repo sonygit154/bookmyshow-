@@ -1,4 +1,4 @@
-bookmyshow-demo/
+bookmyshow/
 ├── src/
 │   ├── app/
 │   │   ├── auth/         # Login & Signup components
